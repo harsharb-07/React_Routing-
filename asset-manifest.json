@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/harsharb-07/React_Routing-.git/static/css/main.0b54fbcd.css",
+    "main.js": "/harsharb-07/React_Routing-.git/static/js/main.80cf88cb.js",
+    "static/js/453.96453769.chunk.js": "/harsharb-07/React_Routing-.git/static/js/453.96453769.chunk.js",
+    "index.html": "/harsharb-07/React_Routing-.git/index.html",
+    "main.0b54fbcd.css.map": "/harsharb-07/React_Routing-.git/static/css/main.0b54fbcd.css.map",
+    "main.80cf88cb.js.map": "/harsharb-07/React_Routing-.git/static/js/main.80cf88cb.js.map",
+    "453.96453769.chunk.js.map": "/harsharb-07/React_Routing-.git/static/js/453.96453769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b54fbcd.css",
+    "static/js/main.80cf88cb.js"
+  ]
+}
